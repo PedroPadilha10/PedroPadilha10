@@ -19,7 +19,7 @@ Eu amo aprender e com isso sei que posso chegar longe!
 
 ## E-mail para contato: 
 
-pedropadilha@gmail.com
+pedropadilha10a@gmail.com
 
 
 
