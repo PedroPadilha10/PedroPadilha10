@@ -15,7 +15,7 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br>
 
-Eu amo aprender e com isso sei que posso chegar longe! 
+Sou apaixonado por programação e tecnologia, amo aprender e sei que posso chegar muito longe. 
 
 ## E-mail para contato: 
 
